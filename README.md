@@ -1,8 +1,8 @@
 Hi there 👋
 
 
-- 🔭 I’m currently working on ... PcLink Project 
-- 🌱 I’m currently learning ...  Aws
+- 🔭My name is Mohamed Zaytoun ... I am a mobile developer
+- 🌱 I’m currently learning ...  AWS
 - 👯 I’m looking to collaborate on ... Android or Flutter 
 - 🤔 I’m looking for help with ... Pixel Art
 - 💬 Ask me about ...  anything about Egypt
