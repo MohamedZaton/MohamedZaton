@@ -33,7 +33,7 @@ Give a ⭐️ if some project helped you!
 | <img src="https://j.gifs.com/NLMzqm.gif" width="450" height="250">    | <img src="https://j.gifs.com/vlPyzm.gif" width="250" height="500"/>       |
 |     |  |
 |   |  [Livestock App (Private)](https://play.google.com/store/apps/details?id=com.pclink.alanaam)  |
-| <img src="https://i.imgur.com/a5opMoe.png" width="700" height="500">    |   |
+| <img src="https://i.imgur.com/a5opMoe.png" width="500" height="250">    |   |
 
 
 <!--
