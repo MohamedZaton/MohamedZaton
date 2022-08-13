@@ -12,12 +12,12 @@ My name is Mohamed Zaytoun , I am a mobile developer,  I am learning new things 
 
 |  |  [Click App ](https://github.com/MohamedZaton/click_app)     |
 --- | ---
-| [<img src="https://user-images.githubusercontent.com/26501595/175790810-3b86d899-0cc5-485f-a6db-06aa5b827a5f.png" width="450" height="250"> ](https://github.com/MohamedZaton/click_app)   | The Click App is a currency exchange app for currency exchange from the Middle East to Russia or Ukraine. <br /><br /> <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  </a>  |
+| [<img src="https://user-images.githubusercontent.com/26501595/175790810-3b86d899-0cc5-485f-a6db-06aa5b827a5f.png" width="450" height="250"> ](https://github.com/MohamedZaton/click_app)   | The Click App is a currency exchange app for currency exchange from the Middle East to Russia or Ukraine. <br /><br /> <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  </a> <br/> <a href='https://play.google.com/store/apps/details?id=com.freelance.click_app'><img src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=tr'  width="130" height="70"/></a> |
 | | |
 
 |  |  [WeCare App ](https://github.com/MohamedZaton/medical_system)     |
 --- | ---
-| [<img src="https://user-images.githubusercontent.com/26501595/179987146-07b34177-a3c8-4c44-89cf-ae83df744ba9.png" width="450" height="250"> ](https://github.com/MohamedZaton/medical_system)   | This Arabic medical system hospitals covers most aspects of medicine, including radiology, analysis, clinics, and pharmacies. <br /><br /> <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  </a>  |
+| [<img src="https://user-images.githubusercontent.com/26501595/179987146-07b34177-a3c8-4c44-89cf-ae83df744ba9.png" width="450" height="250"> ](https://github.com/MohamedZaton/medical_system)   | This Arabic medical system hospitals covers most aspects of medicine, including radiology, analysis, clinics, and pharmacies. <br /><br /> <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  </a> <br/> <a href='https://play.google.com/store/apps/details?id=com.wecarematrooh.developer'><img src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=tr'  width="130" height="70"/></a>  |
 | | |
 
 |  |  [TMDB Actors ](https://github.com/MohamedZaton/people_tmdb)     |
