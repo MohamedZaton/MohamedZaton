@@ -12,7 +12,7 @@ My name is Mohamed Zaytoun , I am a mobile developer,  I am learning new things 
 
 |  |  [AL Rajhi Takaful](	https://www.alrajhitakaful.com/en)     |
 --- | ---
-| [<img src="https://i.imgur.com/BAfQQDA.png" width="450" height="250"> ](https://i.imgur.com/BAfQQDA.png)   | Are you a kindergarten teacher? Or are you a parent of a child attending a nursery or childcare center. <br /><br /> <a href='https://play.google.com/store/apps/details?id=com.alrajhitakaful.dcp'><img src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=tr'  width="130" height="70"/></a><br /><a href='https://apps.apple.com/us/app/%D8%AA%D9%83%D8%A7%D9%81%D9%84-%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D9%8A-al-rajhi-takaful/id1511689440'><img src='https://www.fennvilledl.michlibrary.org/apple-app-store.png'  width="130" height="40"/></a>  |
+| [<img src="https://github.com/user-attachments/assets/9a0e4e8e-9c11-4863-9fd7-d2878027a88b" width="450" height="250"> ](https://i.imgur.com/BAfQQDA.png)   | Al Rajhi Takaful Insurance App gives you access to a suite of first-class, Shariah compliant health and motor insurance solutions in the Kingdom of Saudi Arabia.  <br /><br /> <a href='https://play.google.com/store/apps/details?id=com.alrajhitakaful.dcp'><img src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=tr'  width="130" height="70"/></a><br /><a href='https://apps.apple.com/us/app/%D8%AA%D9%83%D8%A7%D9%81%D9%84-%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D9%8A-al-rajhi-takaful/id1511689440'><img src='https://www.fennvilledl.michlibrary.org/apple-app-store.png'  width="130" height="40"/></a>  |
 | | |
 |  |  [Ynmo - Daycare](	https://ynmodata.com/en/daycare/)     |
 --- | ---
@@ -26,7 +26,7 @@ My name is Mohamed Zaytoun , I am a mobile developer,  I am learning new things 
 
 |  |  [Abdelaziz Elsallab](https://eg.circlesacademy.info/)     |
 --- | ---
-| [<img src="https://github.com/user-attachments/assets/91f940b1-e6cd-4fd8-b2cd-969b0839e11c" width="450" height="250"> ](https://github.com/user-attachments/assets/91f940b1-e6cd-4fd8-b2cd-969b0839e11c)   | Circles Academy is an educational app that provides courses that are related to Circles Academy content. <br /><br /> <a href='https://play.google.com/store/apps/details?id=com.inova.elsallab'><img src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=tr'  width="130" height="70"/></a><br /><a href='https://apps.apple.com/eg/app/ahmed-el-sallab-e-commerce/id6470149283'><img src='https://www.fennvilledl.michlibrary.org/apple-app-store.png'  width="130" height="40"/></a>  |
+| [<img src="https://github.com/user-attachments/assets/91f940b1-e6cd-4fd8-b2cd-969b0839e11c" width="450" height="250"> ](https://github.com/user-attachments/assets/91f940b1-e6cd-4fd8-b2cd-969b0839e11c)   | Abdelaziz Elsallab is the recognized organization Located in Egypt . The company was established in 1912 at that time we took the opportunity to create a benchmark for ceramic tiles and sanitary ware distribution. <br /><br /> <a href='https://play.google.com/store/apps/details?id=com.inova.elsallab'><img src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png?hl=tr'  width="130" height="70"/></a><br /><a href='https://apps.apple.com/eg/app/ahmed-el-sallab-e-commerce/id6470149283'><img src='https://www.fennvilledl.michlibrary.org/apple-app-store.png'  width="130" height="40"/></a>  |
 | | |
 |  |  [Click App ](https://github.com/MohamedZaton/click_app)     |
 --- | ---
